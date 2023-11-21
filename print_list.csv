@@ -2,13 +2,13 @@ no,part,file,qty,link
 1,Base motor box,MotorBearingPlate_20140801.stl,1,https://www.thingiverse.com/thing:442636/#files
 2,Base Z box,1405ZBox_20140709a.STL,1,https://www.thingiverse.com/thing:442636/#files
 3,608 bearing cap for X axis,1405608Cap_20140702.STL,4,https://www.thingiverse.com/thing:383713
-4,Belt Tension Block,TensionBlockYGT2_20140702.STL,3
-5,Belt end right,1405XBeltEndRight_20140702.STL,1
-6,Belt end left,1405XBeltEndLeft_20140702.STL,1
+4,Belt Tension Block,TensionBlockYGT2_20140702.STL,3,
+5,Belt end right,1405XBeltEndRight_20140702.STL,1,
+6,Belt end left,1405XBeltEndLeft_20140702.STL,1,
 7,X end 148mm left,1405XBedEndLeft-85x146_20140702.STL,1,https://www.thingiverse.com/thing:383713
 8,X end 148mm right,1405XBedEndRight-85x146_20140702.STL,1,https://www.thingiverse.com/thing:383713
-9,YZ plate,ExtendYPlate1405-2014-06-23.STL,1
-10,Y front/Extruder mount for E3Dv6,1405AlExtruderFront-Short-2014-06-24.STL,1
-11,Y Rear,1405Rear-2014-06-23.STL,1
-12,608 Bearing Post,BearingPost2-2014-06-23.STL,3
-13,Compact direct drive extruder,compact_direct_drive_extruder-mk8.stl,1
+9,YZ plate,ExtendYPlate1405-2014-06-23.STL,1,
+10,Y front/Extruder mount for E3Dv6,1405AlExtruderFront-Short-2014-06-24.STL,1,
+11,Y Rear,1405Rear-2014-06-23.STL,1,
+12,608 Bearing Post,BearingPost2-2014-06-23.STL,3,
+13,Compact direct drive extruder,compact_direct_drive_extruder-mk8.stl,1,
